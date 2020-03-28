@@ -35,5 +35,3 @@ docker save -o filename.tar <container_id>
 
 >>>to get an ssh login into the container to install or do modifications
 docker exec -it <container_id> /bin/sh
-
-
